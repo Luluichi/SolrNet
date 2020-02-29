@@ -9,6 +9,8 @@ If you're not familiar with Solr, take your time to follow the [Solr tutorial](h
 
 ### Downloads
 
+test
+
 The easiest way to get going is to use our NuGet packages:
 
 #### Solr 
